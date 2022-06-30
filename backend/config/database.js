@@ -17,7 +17,7 @@
 const mongoose = require("mongoose");
 
 const connectDatabase = () => {
-mongoose .connect( "mongodb+srv://TULSHI_KALAKHETI:Tulshi@38@cluster0.85frmwp.mongodb.net/?retryWrites=true&w=majority", {
+mongoose .connect( "mongodb+srv://TulshiKalakheti:Tulshi@38@cluster0.w8yebng.mongodb.net/?retryWrites=true&w=majority", {
    useNewUrlParser: true,
     useUnifiedTopology: true,
    } 
